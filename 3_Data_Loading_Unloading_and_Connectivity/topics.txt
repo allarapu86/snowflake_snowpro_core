@@ -1,0 +1,4 @@
+Data Loading, Unloading, and Connectivity
+• Perform Data Loading and Unloading
+• Perform Automated Data Ingestion
+• Identify the Different Snowflake Connectors and Integrations

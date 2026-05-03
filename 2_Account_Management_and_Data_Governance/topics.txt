@@ -1,0 +1,4 @@
+Account Management and Data Governance
+• Explain Snowflake’s Security Best Practices and Principles
+• Define Data Governance Features and How They are Used
+• Explain Monitoring and Cost Management

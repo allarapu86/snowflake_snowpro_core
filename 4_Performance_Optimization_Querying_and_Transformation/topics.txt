@@ -1,0 +1,5 @@
+Performance Optimization, Querying, and Transformation
+• Evaluate Query Performance
+• Optimize Query Performance
+• Use Snowflake Caching
+• Perform Data Transformation Techniques

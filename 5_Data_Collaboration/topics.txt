@@ -1,0 +1,4 @@
+Data Collaboration
+• Explain Data Collaboration and Protection
+• Explain Snowflake’s Data Sharing Capabilities
+• Share Data Using the Snowflake Marketplace and Listings

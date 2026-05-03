@@ -1,0 +1,7 @@
+Snowflake AI Data Cloud Features and Architecture
+• Describe and Use the Snowflake Architecture
+• Use Snowflake Interfaces and Tools
+• Differentiate Snowflake Object Hierarchy and Types
+• Configure Virtual Warehouses
+• Explain Snowflake Storage Concepts
+• Explain AI/ML and Application Development Features
